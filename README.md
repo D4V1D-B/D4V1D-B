@@ -2,7 +2,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm David and i'm a student at University Laval in Software engineering
+I'm David and i'm a student at Laval University in Software engineering
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
