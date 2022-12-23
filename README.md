@@ -2,11 +2,10 @@
 ---
 
 ### :woman_technologist: About Me :
-</div>
 I'm David and i'm a student at Laval University in Software engineering
 </div>
 My student account is @DABER364
-</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
