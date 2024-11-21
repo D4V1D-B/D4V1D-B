@@ -5,7 +5,10 @@
 I'm David and i'm a student at Laval University in Software engineering
 </div>
 My student account is @DABER364
+
+My THM account : 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Davz.b.png" alt="Your Image Badge" />
+
 
 ---
 
