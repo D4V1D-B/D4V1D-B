@@ -5,7 +5,8 @@
 I'm David and i'm a student at Laval University in Software engineering
 </div>
 My student account is @DABER364
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1331714" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Davz.b.png" alt="Your Image Badge" />
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
